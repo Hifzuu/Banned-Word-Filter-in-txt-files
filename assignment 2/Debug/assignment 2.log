@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\hrmoosa\OneDrive - UCLan\C++\ASSIGNMENT 2\assignment 2\assignment 2\Source.cpp(41,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\hrmoosa\OneDrive - UCLan\C++\ASSIGNMENT 2\assignment 2\assignment 2\Source.cpp(130,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\hrmoosa\OneDrive - UCLan\C++\ASSIGNMENT 2\assignment 2\assignment 2\Source.cpp(158,20): warning C4018: '<': signed/unsigned mismatch
+  assignment 2.vcxproj -> C:\Users\hrmoosa\OneDrive - UCLan\C++\ASSIGNMENT 2\assignment 2\Debug\assignment 2.exe
